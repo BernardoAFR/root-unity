@@ -1,0 +1,3 @@
+[submodule "Packages/com.bernardoafr.runaway"]
+	path = Packages/com.bernardoafr.runaway
+	url = git@github.com:BernardoAFR/runaway.git
