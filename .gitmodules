@@ -4,3 +4,6 @@
 [submodule "Packages/com.bernardoafr.menu"]
 	path = Packages/com.bernardoafr.menu
 	url = git@github.com:BernardoAFR/menu.git
+[submodule "Packages/com.bernardoafr.wordsearch"]
+	path = Packages/com.bernardoafr.wordsearch
+	url = git@github.com:BernardoAFR/wordsearch.git
